@@ -1,1 +1,3 @@
 New test.txt file in appv2.0
+
+Now it's synced
